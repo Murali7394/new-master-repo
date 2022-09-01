@@ -1,1 +1,8 @@
 with help of youtube vedios i am going to master  the testing softwares.........
+
+
+
+i succesfully pulled the file in the repository to workspace with eclipse and i can also do it in the command prompt 
+
+
+sooner iam going to master the git hub and iam going to get the things done ok 
